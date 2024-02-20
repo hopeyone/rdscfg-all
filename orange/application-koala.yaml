@@ -1,2 +1,3 @@
 app:
   mainmessage: This is the rdscfg-all/orange/koala application.yaml file.
+  rclonekey: orange-koala

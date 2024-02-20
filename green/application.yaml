@@ -1,2 +1,3 @@
 app:
   mainmessage: This is the rdscfg-all/green application.yaml file.
+  rclonekey: green-one
